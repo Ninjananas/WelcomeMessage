@@ -1,0 +1,4 @@
+name: WelcomeMessage
+main: ninjananas.mc.WelcomeMessage.Plugin
+version: 1.0
+api-version: 1.18
